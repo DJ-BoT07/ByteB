@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { LampContainer } from "./Lamp";
+import { LampContainer } from "./Lamp.jsx";
 import CarouselDemo from "./Carousel";
 import { useNavigate } from 'react-router-dom';
 
