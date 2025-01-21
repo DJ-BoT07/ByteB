@@ -1,7 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { LampContainer } from "./Lamping2";
-import CarouselDemo from "./Carousel";
 import { useNavigate } from 'react-router-dom';
 
 export const Land = () => {
